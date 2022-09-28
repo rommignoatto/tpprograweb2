@@ -56,10 +56,8 @@
     </div>
     <div>
       <h1>SOMOS UNA HAMBURGUESERIA</h1>
-      <h6>Lorem ipsum dolor sit amet consectetur adipisicing elit. Maiores voluptates rerum animi? Animi nemo iste rerum. Commodi cumque sapiente nostrum minus inventore at expedita odit ex, quae necessitatibus tenetur doloremque!locale_filter_matches
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam maiores nobis, voluptatem dignissimos in accusantium necessitatibus blanditiis sed repudiandae accusamus voluptatum possimus? Nobis temporibus nostrum iure officia, ab laborum adipisci.
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Saepe explicabo illo vero illum natus quis non excepturi adipisci voluptatibus eveniet, dicta provident voluptas perspiciatis quae eligendi incidunt, officiis eum labore!
-      </h6>
+      <h4>Al igual que con nuestra hamburguesa, nos tomamos el tiempo necesario en diseñar y desarrollar cada rincón de nuestro local. Por eso en Burgermanía vas a encontrar el mejor servicio y diseño para cubrir todas tus necesidades.
+        </h6>
     </div>
     <div class="row row-cols-1 row-cols-md-3 g-4">
       <div class="col">

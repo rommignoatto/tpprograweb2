@@ -1,31 +1,33 @@
 <footer>
-        <div class="container__footer">
-            <div class="box__footer">
-                <div class="logo">
-                    <img src=https://picsum.photos/50 alt="">
-                </div>
-                <div class="terms">
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas impedit cum cumque velit libero officiis quam doloremque reprehenderit quae corporis! Delectus architecto officia praesentium atque laudantium, nam deleniti sapiente deserunt.</p>
-                </div>
+    <div class="container__footer">
+        <div class="box__footer">
+            <div class="logo">
+                <?php
+                echo '<img src="./layouts/images/footer.png">';
+                ?>
             </div>
-            <div class="box__footer">
-                <h2>Politica y privacidad</h2>
-                <a href="https://www.google.com">asdasd</a>
-                <a href="#">Ayuda</a>
-                <a href="#">Quiero saber mas</a>
-                <a href="#">asdad</a>
+            <div class="terms">
+                <p>Burgermanía nace con la idea de volcar más de 10 años de experiencia gastronómica para generar Revolución y cambios. Ofrecemos la mejor hamburguesa del mercado (Best Burgers in Town), desarrollada con un blend de carnes y condimentos que sumados dan como resultado una hamburguesa con mucho sabor que la diferencia de la que hoy está en el mercado.</p>
             </div>
-
-            <div class="box__footer">
-                <h2>Redes Sociales</h2>
-                <a href="#"> <i class="fab fa-facebook-square"></i> Facebook</a>
-                <a href="#"><i class="fab fa-instagram-square"></i> Instagram</a>
-            </div>
-
+        </div>
+        <div class="box__footer">
+            <h2>Politica y privacidad</h2>
+            <a href="https://www.google.com">Nuestra comunidad</a>
+            <a href="#">Trabajá con nosotros</a>
+            <a href="#">Franquicias</a>
+            <a href="#">Sobre nosotros</a>
         </div>
 
-        <div class="box__copyright">
-            <hr>
-            <p>Todos los derechos reservados © 2021 <b>Foodstore</b></p>
+        <div class="box__footer">
+            <h2>Redes Sociales</h2>
+            <a href="#"> <i class="fab fa-facebook-square"></i> Facebook</a>
+            <a href="#"><i class="fab fa-instagram-square"></i> Instagram</a>
         </div>
-    </footer>
+
+    </div>
+
+    <div class="box__copyright">
+        <hr>
+        <p>Todos los derechos reservados © 2021 <b>Foodstore</b></p>
+    </div>
+</footer>
